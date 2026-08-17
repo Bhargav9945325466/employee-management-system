@@ -1,0 +1,16 @@
+# Backend
+employee-backend/src/main/resources/application.properties
+employee-backend/target/
+
+# Frontend
+employee-frontend/node_modules/
+employee-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
